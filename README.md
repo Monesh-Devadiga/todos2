@@ -2,7 +2,7 @@
 
 A polished, single-page todo application built with **React 18** and **Vite 8**. It demonstrates modern component-based thinking, a single source of truth for state, and a production-ready build pipeline — all in one small, dependency-light project.
 
-Built during **SkillAudit Week 3** and shipped as a documented, tested production build in **Week 4**.
+<!--Built during **SkillAudit Week 3** and shipped as a documented, tested production build in **Week 4**.-->
 
 ---
 
