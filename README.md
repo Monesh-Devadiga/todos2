@@ -6,7 +6,7 @@ A polished, single-page todo application built with **React 18** and **Vite 8**.
 
 ---
 
-## Features
+## Features 
 
 - **Add todos** — type and press Enter (or click *Add*); the button disables itself on empty input
 - **Toggle done** — click the checkbox; completed items get struck through and muted
